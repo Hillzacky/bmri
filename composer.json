@@ -1,0 +1,20 @@
+{
+  "name": "hillzacky/bmri",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Hilmansyah",
+      "email": "hilmansyah.amd.kom@icloud.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "hillzacky\\bmri\\": "src/"
+    }
+  },
+  "require": {
+    "guzzle/guzzle": "*"
+  }
+}
