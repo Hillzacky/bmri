@@ -1,0 +1,22 @@
+<?php
+require_once __DIR__.'/src/signature.php';
+require_once __DIR__.'/src/balance-inquiry.php';
+require_once __DIR__.'/src/bank-statement.php';
+require_once __DIR__.'/src/bill-payment-inquiry.php';
+require_once __DIR__.'/src/bill-payment-transfer.php';
+require_once __DIR__.'/src/create-virtual-account.php';
+require_once __DIR__.'/src/external-account-inquiry.php';
+require_once __DIR__.'/src/get-report-virtual-account.php';
+require_once __DIR__.'/src/inquiry-status-rdl-rdb.php';
+require_once __DIR__.'/src/inquiry-virtual-account.php';
+require_once __DIR__.'/src/inquiry-status-rdn.php';
+require_once __DIR__.'/src/interbank-transfer.php';
+require_once __DIR__.'/src/internal-account-inquiry.php';
+require_once __DIR__.'/src/intrabank-transfer.php';
+require_once __DIR__.'/src/notify-payment-virtual-account.php';
+require_once __DIR__.'/src/register-account-rdl-rdb.php';
+require_once __DIR__.'/src/register-account-rdn.php';
+require_once __DIR__.'/src/rtgs-transfer.php';
+require_once __DIR__.'/src/sknbi-transfer.php';
+require_once __DIR__.'/src/transaction-status-inquiry.php';
+require_once __DIR__.'/src/update-virtual-account.php';
